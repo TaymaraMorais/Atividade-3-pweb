@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controller",
+    "\\dao",
+    "\\js",
+    "\\model",
+    "\\sql",
+    "\\view"
+  ],
+  "SelectedNode": "\\view\\servicoLoginMedico.php",
+  "PreviewInSolutionExplorer": false
+}
